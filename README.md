@@ -33,7 +33,7 @@ A full-stack web application designed to streamline hospital operations. This sy
 - Git & GitHub  
 - Postman  
 - JWT
--Cloudinary
+- Cloudinary
 
 ---
 
