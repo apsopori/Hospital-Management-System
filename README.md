@@ -42,7 +42,7 @@ A full-stack web application designed to streamline hospital operations. This sy
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Hospital-Management-System.git
+git clone https://github.com/apsopori/Hospital-Management-System.git
 
 # Navigate to project directory
 cd Hospital-Management-System
